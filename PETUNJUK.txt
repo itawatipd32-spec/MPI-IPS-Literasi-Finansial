@@ -1,0 +1,27 @@
+MPI LITERASI FINANSIAL
+=====================
+
+Isi paket:
+- index.html : Media Pembelajaran Interaktif yang dapat dijalankan di browser.
+- PETUNJUK.txt : Petunjuk penggunaan.
+
+Cara menggunakan:
+1. Ekstrak file ZIP.
+2. Buka index.html menggunakan browser modern (Chrome, Edge, Firefox, Safari).
+3. Tidak memerlukan instalasi atau koneksi internet.
+4. Navigasikan bagian pembelajaran dari menu di sebelah kiri/atas.
+5. Hasil kuis dan jawaban ditampilkan langsung di halaman. Untuk menyimpan refleksi, gunakan tombol "Cetak / simpan sebagai PDF".
+
+Struktur pembelajaran:
+1. Apersepsi
+2. Asesmen awal
+3. Materi pokok
+4. Simulasi anggaran interaktif
+5. Kuis
+6. Asesmen akhir
+7. Refleksi
+
+Catatan:
+- Materi dirancang sebagai bahan ajar umum untuk SMP/SMA dan dapat disesuaikan guru.
+- Jawaban yang diketik tidak dikirim ke server; interaksi berlangsung lokal di browser.
+- Skor otomatis untuk soal pilihan ganda; pertanyaan refleksi dinilai secara mandiri.
